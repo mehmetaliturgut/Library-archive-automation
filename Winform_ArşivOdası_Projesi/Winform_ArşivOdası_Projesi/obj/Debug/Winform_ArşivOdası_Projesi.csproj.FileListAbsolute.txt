@@ -1,0 +1,39 @@
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.exe.config
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.exe
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.pdb
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csprojAssemblyReference.cache
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form1.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form2.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Properties.Resources.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.GenerateResource.cache
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.exe
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.pdb
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form3.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_ODA_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_BOLUM_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_RAF_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_KLASOR_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_DOSYA_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form5_eKayit_.resources
+C:\Users\mehmet.turgut\Desktop\FORM_APP\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form5_e_Getir_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.exe.config
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.exe
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\bin\Debug\Winform_ArşivOdası_Projesi.pdb
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form1.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form2.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form3.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_BOLUM_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_DOSYA_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_KLASOR_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_ODA_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form4_RAF_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form5_eKayit_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Form5_e_Getir_.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.Properties.Resources.resources
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.GenerateResource.cache
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.exe
+C:\Users\Mehmet Ali\Desktop\Winform_ArşivOdası_Projesi\Winform_ArşivOdası_Projesi\obj\Debug\Winform_ArşivOdası_Projesi.pdb
